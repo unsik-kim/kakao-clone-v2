@@ -7,6 +7,9 @@
 @import "friends.css";
 @import "find.css";
 @import "settings.css";
+@import "chat.css";
+@import "more.css";
+
 
 *{
     box-sizing: border-box;
@@ -17,7 +20,6 @@ body{
     padding: 10px 20px; /*top&bottom, left&right*/
     color: #020202;
     font-family: 'Open Sans', sans-serif;
-    height: 1000000px;
 }
 
 a{
